@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanvasquezjaramillo&label=Profile%20views&color=0e75b6&style=flat" alt="juanvasquezjaramillo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanvasquezjaramillo&column=3&theme=gruvbox" alt="juanvasquezjaramillo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanvasquezjaramillo&column=3&theme=gruvbox&margin-w=15&margin-h=15" alt="juanvasquezjaramillo" /></a> </p>
 
 - 🔭 I’m currently working on [Gaming Shop](https://pf-games.vercel.app)
 
